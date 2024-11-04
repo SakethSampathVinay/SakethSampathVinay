@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saketh Sampath Vinay
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Full Stack Development
+- 🌱 I’m currently learning Tailwind CSS
 - 💞️ I’m looking for Internships in Full Stack Development
 - 📫 How to reach me on LinkedIn, X
 <!---
